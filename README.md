@@ -26,12 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshots/desktop_screenshot.png)
+![](./screenshots/mobile_screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Kristina225/Frontend-Mentor-Project-Newbie---single-price-grid-component
+- Live Site URL: https://single-price-grid-component-fm18.netlify.app/
 
 ## My process
 
