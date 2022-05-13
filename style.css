@@ -33,6 +33,7 @@ body {
     max-width: 31.1rem;
     border-radius: 0.5rem;
     box-shadow: 0px 15px 30px rgba(0, 81, 171, 0.148847);
+    overflow: hidden;
 }
 
 .card__top {
